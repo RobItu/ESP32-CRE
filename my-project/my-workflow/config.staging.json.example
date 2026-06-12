@@ -1,0 +1,9 @@
+{
+  "schedule": "*/30 * * * * *",
+  "chainSelectorName": "ethereum-testnet-sepolia",
+  "consumerAddress": "0xEc67CFcFc21eFB9C41c6cad0f18b2D40637213f7",
+  "gasLimit": "500000",
+  "proxmoxApiUrl": "",
+  "authorizedEVMAddress":""
+
+}
